@@ -1,7 +1,7 @@
 ## Hi, I'm Viktorija 👋
 
 
-I recently completed a **264-hour Cyber Security with AI bootcamp** at [CodeAcademy Lithuania](https://codeacademy.lt/en/programavimo-kursai/cyber-security-2/) and I'm looking for my first role in cybersecurity. The course covered everything from threat analysis and incident response to penetration testing fundamentals, with preparation toward CompTIA Security+ and CySA+.
+I recently completed a **264-hour Cyber Security course** at [CodeAcademy Lithuania] and I'm looking for my first role in cybersecurity. The course covered everything from threat analysis and incident response to penetration testing fundamentals, with preparation toward CompTIA Security+ and AWS Cloud.
 
 I'm open to any entry-level position where I can keep learning and contribute from day one.
 
