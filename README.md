@@ -11,12 +11,12 @@ I'm open to any entry-level position where I can keep learning and contribute fr
 
 I document my hands-on labs here so you can see how I think through problems, not just which tools I've used.
 
-- 🔵 **Splunk & Elastic Stack (ELK/SIEM)** — investigating brute force attacks, privilege escalation, and malware persistence through log analysis
-- 🔴 **Snort** — writing custom IDS rules and analyzing network traffic
-- 🟣 **Sysmon & Windows Event Logs** — tracking malware behavior step by step using Event IDs
-- 🟠 **Linux security** — UFW firewall configuration, SSH key authentication, file permissions
-- 🌐 **Packet Tracer** — DHCP, VLAN segmentation, and inter-VLAN routing
-- 🔍 **Security assessment** — SAST with Bandit, MD5, sha-256 hash cracking, web traffic investigation
+- 🔵 **Splunk & Elastic Stack (ELK/SIEM)** - investigating brute force attacks, privilege escalation, and malware persistence through log analysis
+- 🔴 **Snort** - writing custom IDS rules and analyzing network traffic
+- 🟣 **Sysmon & Windows Event Logs** - tracking malware behavior step by step using Event IDs
+- 🟠 **Linux security** - UFW firewall configuration, SSH key authentication, file permissions
+- 🌐 **Packet Tracer** - DHCP, VLAN segmentation, and inter-VLAN routing
+- 🔍 **Security assessment** - SAST with Bandit, MD5, sha-256 hash cracking, web traffic investigation
 
 ---
 
@@ -30,7 +30,7 @@ Through the CodeAcademy bootcamp I worked with:
 
 ## Currently working toward
 
-- CompTIA Security+
+- AWS Cloud
 - Active on TryHackMe — [view my profile](https://tryhackme.com/p/vikktelete)
 
 ---
